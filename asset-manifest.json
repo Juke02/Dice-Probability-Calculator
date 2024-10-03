@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dice-Probability-Calculator/static/css/main.ba27d6c5.css",
+    "main.js": "/Dice-Probability-Calculator/static/js/main.40177ff2.js",
+    "static/js/453.7d523d8f.chunk.js": "/Dice-Probability-Calculator/static/js/453.7d523d8f.chunk.js",
+    "index.html": "/Dice-Probability-Calculator/index.html",
+    "main.ba27d6c5.css.map": "/Dice-Probability-Calculator/static/css/main.ba27d6c5.css.map",
+    "main.40177ff2.js.map": "/Dice-Probability-Calculator/static/js/main.40177ff2.js.map",
+    "453.7d523d8f.chunk.js.map": "/Dice-Probability-Calculator/static/js/453.7d523d8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba27d6c5.css",
+    "static/js/main.40177ff2.js"
+  ]
+}
